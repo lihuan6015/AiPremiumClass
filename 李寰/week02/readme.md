@@ -1,1 +1,4 @@
+petal_logistic_train.ipynb为鸢尾花预测逻辑回归模型实现代码作业
+petal_logistic_prediction.ipynb为加载模型并运行
+utils.py用于封装复用的工具类代码，供ipynb中调用
 
