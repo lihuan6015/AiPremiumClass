@@ -1,1 +1,4 @@
+torch_nn_model.py声明定义RNN不同结构的类
+rnns_code_test.py实现具体的数据集处理、模型训练、模型评估
+RNN_TimeSeries_Regression.ipynb实现基于kaggle天气数据连续序列值进行未来1天、5天最高气温回归预测
 
